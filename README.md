@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Nicu</h1>
+<h1 align="left">👋 Hi, I'm Mijache Nicusor-Niki</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NicuMijache&label=Profile%20views&color=8A2BE2&style=flat" alt="Profile views" />
@@ -8,9 +8,7 @@
 
 🔭 I'm currently working on **Full-Stack Web Applications**
 
-🌱 I'm currently learning **ASP.NET Core, React, TypeScript, and Algorithms**
-
-💬 Ask me about **Web Development, Backend Systems, and Embedded Systems**
+🌱 I'm currently learning **ASP.NET Core, Angular, TypeScript, and Algorithms**
 
 ⚡ Fun fact: **I love building things that actually work end-to-end!**
 
