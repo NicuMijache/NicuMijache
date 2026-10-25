@@ -64,4 +64,4 @@
 ## Contact
 
 📫 [nicumijache78@gmail.com](mailto:nicumijache78@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/LINKEDIN-USERNAME)
+💼 [LinkedIn](https://www.linkedin.com/in/nicusor-mijache-1b5192389/)
